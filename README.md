@@ -1,2 +1,2 @@
-# udemy_react_banilajs_todo
+# udemy_ract_intro_js
 Created with CodeSandbox
